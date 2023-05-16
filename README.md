@@ -2,6 +2,8 @@
 
 clone the repo to you vs code after cloning the repo 
 
+before applying below commands, create access_key and secret_key 
+
 apply some Terraform commands to execute you infrastructure 
 
 1) terraform init :- it will initialise all required providers into it
