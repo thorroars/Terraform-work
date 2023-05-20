@@ -29,10 +29,10 @@ variable "az-02" {
 
 variable "access_key" {
   type = string
-  default = "AKIAV3IUDZ2JIXOONZ6U" 
+  default = "your-acces-key" 
 }
 
 variable "secret_key" {
    type = string
-   default = "lWZ9laxGza40P4EoXzUrgNk65Iyw024u/k7/txiP" 
+   default = "your-secret-key" 
 }
